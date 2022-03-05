@@ -20,15 +20,15 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 # Tech Used:
 
-> Blockchain
-> Flutter
+- Blockchain
+- Flutter
 
 
 
 ## Team - Koi na.cpp
 
-> Raj Motwani(1st Sem)- Blockchain & App building
-> Somya Kabra(1st Sem)- Designing part(logo &UI)
+- *Raj Motwani* (1st Sem)- Blockchain & App building
+- *Somya Kabra* (1st Sem)- Designing part(logo &UI)
 
 
 ## Screenshots
