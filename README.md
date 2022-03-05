@@ -29,9 +29,9 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 - Blockchain
 - Flutter
-- <p>&nbsp;</p>
-- <p>&nbsp;</p>
-- <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
@@ -39,10 +39,9 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 - *Raj Motwani* (1st Sem)- Blockchain & App building
 - *Somya Kabra* (1st Sem)- Designing part(logo &UI)
-- <p>&nbsp;</p>
-- <p>&nbsp;</p>
-- <p>&nbsp;</p>
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Screenshots
 <p>&nbsp;</p>
