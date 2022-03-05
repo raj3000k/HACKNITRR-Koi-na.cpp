@@ -6,7 +6,7 @@ Data breaching from Notes/Todolist apps in smartphone by spammers.
 
 
 # Solution:
-Using etherium blockchain ,smartcontracts to secure it and combining it with flutter to build an app.
+Using etherium blockchain ,smartcontracts to secure it and combining it with flutter to build a notes/TodoList app.
 
 
 <p>&nbsp;</p>
