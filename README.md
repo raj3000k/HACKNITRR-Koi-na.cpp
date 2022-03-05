@@ -29,5 +29,8 @@ Flutter
 
 Raj Motwani(1st Sem)- Blockchain & App building
 Somya Kabra(1st Sem)- Designing part(logo &UI)
-
+## Screenshots
+<p align="center">
+    <img src="./src/abis/ss1.png" alt="Logo">
+  </a>
 
