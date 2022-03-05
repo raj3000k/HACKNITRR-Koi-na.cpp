@@ -1,31 +1,31 @@
 # HACKNITRR-Koi-na.cpp
 **Submission** for HackNITRR'22 by team **"Koi na.cpp"**.
 
-#**Problem**- 
+# Problem: 
 Breaching of data from save notes/schedule apps from smartphone.
 
-#**Solution**-
+# Solution:
 Using etherium blockchain ,smartcontracts to secure it and combining it with flutter to build an app.
 
 
 
-#**Tech_Tools_Used**:
+# Tech_Tools_Used:
 
-**Ganache
+Ganache
 Truffle
 Etherium blockchain
 Flutter
 Material UI
-**
 
-**#Tech Used-**:
+
+# Tech Used:
 
 **Blockchain
 Flutter
 **
 
 
-##Team - Koi na.cpp
+## Team - Koi na.cpp
 
 Raj Motwani(1st Sem)- Blockchain & App building
 Somya Kabra(1st Sem)- Designing part(logo &UI)
