@@ -11,11 +11,11 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 # Tech_Tools_Used:
 
->Ganache.
->Truffle.
-> Etherium blockchain.
-> Flutter.
-> Material UI.
+- Ganache.
+- Truffle.
+- Etherium blockchain.
+- Flutter.
+- Material UI.
 
 
 # Tech Used:
