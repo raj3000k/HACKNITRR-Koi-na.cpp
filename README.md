@@ -2,11 +2,14 @@
 **Submission** for HackNITRR'22 by team **"Koi na.cpp"**.
 
 # Problem: 
-Breaching of data from save notes/schedule apps from smartphone.
+Data breaching from Notes/Todolist apps in smartphone by spammers.
+
 
 # Solution:
 Using etherium blockchain ,smartcontracts to secure it and combining it with flutter to build an app.
 
+
+<p>&nbsp;</p>
 
 
 # Tech_Tools_Used:
