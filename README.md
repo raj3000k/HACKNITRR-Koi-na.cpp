@@ -11,9 +11,7 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 
 # Tech_Tools_Used:
@@ -24,11 +22,16 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 - Flutter.
 - Material UI.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 # Tech Used:
 
 - Blockchain
 - Flutter
+- <p>&nbsp;</p>
+- <p>&nbsp;</p>
+- <p>&nbsp;</p>
 
 
 
@@ -36,9 +39,13 @@ Using etherium blockchain ,smartcontracts to secure it and combining it with flu
 
 - *Raj Motwani* (1st Sem)- Blockchain & App building
 - *Somya Kabra* (1st Sem)- Designing part(logo &UI)
+- <p>&nbsp;</p>
+- <p>&nbsp;</p>
+- <p>&nbsp;</p>
 
 
 ## Screenshots
+<p>&nbsp;</p>
 <p align="center">
     <img src="./src/abis/ss1.png" alt="Logo" width="400">
   </a>
