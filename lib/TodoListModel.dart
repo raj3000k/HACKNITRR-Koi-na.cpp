@@ -9,11 +9,11 @@ import 'package:web_socket_channel/io.dart';
 class TodoListModel extends ChangeNotifier {
   List<Task> todos = [];
   bool isLoading = true;
-  final String _rpcUrl = "http://192.168.225.244:7545";
-  final String _wsUrl = "ws://192.168.225.244:7545/";
+  final String _rpcUrl = "http://127.0.0.1:7545";
+  final String _wsUrl = "ws://127.0.0.1:7545/";
 
   final String _privateKey =
-      "81c1e813175b9da108a93a89efa383a2a5805a6741605ae99ade291dac3dab25";
+      "f704b116acb368d53265e2729b0e8a0781c77c9426c0d740cea84470215fe7df";
   int taskCount = 0;
   Web3Client _client;
   String _abiCode;
